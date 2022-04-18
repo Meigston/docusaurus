@@ -1,3 +1,6 @@
+---
+sidebar_position: 6
+---
 # Endpoints do Marketplace Juntos Somos Mais
 
 ## Token para testes

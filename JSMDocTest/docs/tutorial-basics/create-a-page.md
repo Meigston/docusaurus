@@ -1,3 +1,6 @@
+---
+sidebar_position: 2
+---
 # Configuração de clientes
 
 ## Fluxos de cadastro e alteração de clientes
